@@ -18,5 +18,9 @@
 - 💬 Ask me about Anything
 - 📫 How to reach me:  [![Whatsapp Badge](https://img.shields.io/badge/-Pratik_Korde-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/919503575705)](https://wa.me/919503575705)
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=pkpratik1998&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<a href="https://github.com/pkpratik1998">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkpratik1998&theme=dark&hide_langs_below=1" />
+</a>
+<a href="https://github.com/pkpratik1998">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=pkpratik1998&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+</a>
