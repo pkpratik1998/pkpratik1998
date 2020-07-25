@@ -1,5 +1,5 @@
 # Pratik Korde
-[![Views Badge](https://komarev.com/ghpvc/?username=pkpratik1998&label=Views&color=blue&style=plastic)]
+[![Views Badge](https://komarev.com/ghpvc/?username=pkpratik1998&label=Views&color=blue&style=plastic)](https://github.com/pkpratik1998)
  [![Linkedin Badge](https://img.shields.io/badge/-pkpratik1998-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pkpratik1998/)](https://www.linkedin.com/in/pkpratik1998/) [![Twitter Badge](https://img.shields.io/badge/-@Pratikkorde1998-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Pratikkorde1998)](https://twitter.com/Pratikkorde1998)
 [![Gmail Badge](https://img.shields.io/badge/-pkpratik1998@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pkpratik1998@gmail.com)](mailto:pkpratik1998@gmail.com)
  [![Instagram Badge](https://img.shields.io/badge/-@pratik__korde-f58529?style=flat-square&labelColor=dd2a7b&logo=Instagram&logoColor=white&link=https://www.instagram.com/pratik_korde/)](https://www.instagram.com/pratik_korde/)
