@@ -7,7 +7,7 @@
   I'm Pratik Korde, Student at 👨‍💻 KJ College of Engineering and Management Research Pursuing TE-Computer.  I am a ML and Flutter enthusiasts.
 
 
-- 🔭 I’m currently working on Machine Learning Project
+- 🔭 I’m currently working on GirlScript Pune Website Project
 - 🌱 I’m currently learning Machine Learning
 - 🤔 I will usually be a part of hackathons as a #Participants and a #Organiser
 - 👯 I’m looking to collaborate on ML and WEB projects
