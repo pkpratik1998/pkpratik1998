@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-pkpratik1998@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pkpratik1998@gmail.com)](mailto:pkpratik1998@gmail.com)
  [![Instagram Badge](https://img.shields.io/badge/-@pratik__korde-f58529?style=flat-square&labelColor=dd2a7b&logo=Instagram&logoColor=white&link=https://www.instagram.com/pratik_korde/)](https://www.instagram.com/pratik_korde/)
 ## Hi there 👋
-  I'm Pratik Korde, Student at 👨‍💻 KJ College of Engineering and Management Research Pursuing TE-Computer.  I am a ML and Flutter enthusiasts.
+  I'm Pratik Korde, Student at 👨‍💻 KJ College of Engineering and Management Research Pursuing TE-Computer.  I am a ML and React enthusiasts.
 
 
 - 🔭 I’m currently working on react-ToDoList Project
