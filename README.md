@@ -4,13 +4,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-pkpratik1998@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pkpratik1998@gmail.com)](mailto:pkpratik1998@gmail.com)
  [![Instagram Badge](https://img.shields.io/badge/-@pratik__korde-f58529?style=flat-square&labelColor=dd2a7b&logo=Instagram&logoColor=white&link=https://www.instagram.com/pratik_korde/)](https://www.instagram.com/pratik_korde/)
 ## Hi there 👋
-  I'm Pratik Korde, Student at 👨‍💻 KJ College of Engineering and Management Research Pursuing TE-Computer.  I am a ML and React enthusiasts.
+  I'm Pratik Korde, Currently working at 👨‍💻 Intangles Lab Pvt. Ltd. as a Software Development Trainee.
 
 
-- 🔭 I’m currently working on react-ToDoList Project
-- 🌱 I’m currently learning Machine Learning
+- 🔭 I’m currently working on web development at Intangles
 - 🤔 I will usually be a part of hackathons as a #Participants and a #Organiser
-- 👯 I’m looking to collaborate on ML and WEB projects
 - 😄 Fun fact: One thing I cannot live without is Internet.
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
